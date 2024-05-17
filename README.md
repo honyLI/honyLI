@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋,I'm zhe.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
